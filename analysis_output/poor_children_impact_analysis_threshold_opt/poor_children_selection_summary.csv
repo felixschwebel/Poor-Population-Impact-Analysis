@@ -1,0 +1,4 @@
+classification,total_cells,total_children_population,total_poor_children,avg_poverty_rate,cells_with_poor_children,potentially_impacted_poor_children_34kt,potentially_impacted_poor_children_50kt,potentially_impacted_poor_children_64kt
+Rural,1976,411510.1395701582,142571.92880370465,0.4541188401906762,1976,53074,5625,1435
+Urban,150,248418.70322191715,56929.171507922365,0.26991871674148094,150,21010,2882,505
+KMA,98,185885.27636106312,64255.87301118934,0.6212359747498087,98,14182,85,0
